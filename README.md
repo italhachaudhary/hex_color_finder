@@ -72,9 +72,7 @@ hex-color-finder/
 ├── styles.css          # Custom CSS styles
 ├── script.js           # JavaScript functionality
 ├── README.md           # Project documentation
-└── screenshots/        # Project screenshots
-    ├── desktop-view.png
-    └── mobile-view.png
+
 ```
 
 ## 💻 Usage
@@ -187,4 +185,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Made with ❤️ by [Ital Hachaudhary](https://github.com/italhachaudhary)**
 
 *If you found this project helpful, please consider giving it a ⭐ on GitHub!*
+
 
