@@ -29,18 +29,6 @@ A modern, interactive web application that allows users to explore and visualize
 - **Accessibility** - Keyboard navigation and screen reader friendly
 - **Performance Optimized** - Fast loading and smooth interactions
 
-## 🖥️ Live Demo
-
-[**View Live Demo**](https://italhachaudhary.github.io/hex-color-finder) *(Replace with your actual demo URL)*
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Screenshot](screenshots/desktop-view.png) *(Add screenshot)*
-
-### Mobile View
-![Mobile Screenshot](screenshots/mobile-view.png) *(Add screenshot)*
-
 ## 🛠️ Technologies Used
 
 | Technology | Purpose | Version |
@@ -199,3 +187,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Made with ❤️ by [Ital Hachaudhary](https://github.com/italhachaudhary)**
 
 *If you found this project helpful, please consider giving it a ⭐ on GitHub!*
+
